@@ -70,7 +70,92 @@ const app = {
       singer: "Chi Dân",
       path: "music/NguoiYeuGianDon.mp3",
       image:"image/NguoiYeuGianDon.jpg"
-    }
+    },
+    {
+      name: "11:11",
+      singer:"MiiNa",
+      path:"music/11.mp3",
+      image:"image/11.jpg"
+    },
+    {
+      name: "20 Năm Ở Thế Giới",
+      singer: "Thịnh Suy",
+      path:"music/20NamOTheGioi.mp3",
+      image:"image/20NamOTheGioi.jpg"
+    },
+    {
+      name: "Âm Thầm Bên EM",
+      singer: "Sơn Tùng MTP",
+      path:"music/AmThamBenEm.mp3",
+      image:"image/AmThamBenEm.jpg"
+    },
+    {
+      name: "Chỉ Bằng Cái Gật Đầu",
+      singer: "Yan Nguyễn",
+      path:"music/ChiBangCaiGatDau.mp3",
+      image:"image/ChiBangCaiGatDau.jpg"
+    },
+    {
+      name: "Họ Yêu Ai Mất Rồi",
+      singer: "Doãn Hiếu",
+      path:"music/HoYeuAiMatRoi.mp3",
+      image:"image/HoYeuAiMatRoi.jpg"
+    },
+    {
+      name: "Lâu Không Cười",
+      singer: "Phạm Nguyên Ngọc",
+      path:"music/LauKhongCuoi.mp3",
+      image:"image/LauKhongCuoi.jpg"
+    },
+    {
+      name: "Mất Trí Nhớ",
+      singer: "Chi Dân",
+      path:"music/MatTriNho.mp3",
+      image:"image/MatTriNho.jpg"
+    },
+    {
+      name: "Một Mình Ta ",
+      singer: "Bùi Trương Linh",
+      path:"music/MotMinhTa.mp3",
+      image:"image/MotMinhTa.jpg"
+    },
+    {
+      name: "Người Tôi Yêu",
+      singer: "Chi Dân",
+      path:"music/NguoiToiYeu.mp3",
+      image:"image/NguoiToiYeu.jpg"
+    },
+    {
+      name: "Phía Sau Một Cô Gái",
+      singer: "Soobin Hoàng Sơn",
+      path:"music/PhiaSauMotCoGai.mp3",
+      image:"image/PhiaSauMotCoGai.jpg"
+    },
+    {
+      name: "Yêu Em Rất Nhiều",
+      singer: "Hoàng Tôn",
+      path:"music/YeuEmRatNhieu.mp3",
+      image:"image/YeuEmRatNhieu.jpg"
+    },
+    {
+      name: "Yêu Nhau Nhé! Bạn Thân",
+      singer: "Phạm Đình Thái Ngân",
+      path:"music/YeuNhauNheBanThan.mp3",
+      image:"image/YeuNhauNheBanThan.jpg"
+    },
+    {
+      name: "Đáp Án Cuối Cùng",
+      singer: "Quân AP",
+      path:"music/DapAnCuoiCung.mp3",
+      image:"image/DapAnCuoiCung.jpg"
+    },
+    {
+      name: "Tong Hua",
+      singer: "Wind",
+      path:"music/TongHua.mp3",
+      image:"image/TongHua.jpg"
+    },
+
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
